@@ -1,15 +1,18 @@
 # UNIT PLAN NAME
-by TEAM MEMBERS
+by Ben Eckley
 
 -----
 
 ### General Overview
 (include here description of unit, what class(es) it fits into, when...)
+This is a unit for a brand new class I'm designing that will be using audio and video production as its main course of study. I would like to incorprate some kind of code based unit using (and I just learned about these) Processing and Sonic Pi
 
 ---
 
 ### Motivation for Unit
 (why have you decided to make this?)
+
+I was told by my admin they wanted me to create a video production class but plans are changing based on too many students in the class. I am motivated by the huge hole in this area of our MS/HS curriculum.
 
 ---
 
