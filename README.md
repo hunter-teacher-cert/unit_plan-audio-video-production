@@ -1,4 +1,4 @@
-# UNIT PLAN NAME
+# Using Coding in Video and Audio Production
 by Ben Eckley
 
 -----
