@@ -54,5 +54,11 @@ Total lenght: 3 Weeks
 
 ### Assesments
 (list summative and/or formative assessments used)
+1. Students demonstrate knowledge of microphone placement and gain/volume/pattern useage
+2. Students demonstrate ability to send audio signal from mixing board to computer creating a looped file in Soundtrap.
+3. Students take recording from previous lesson and apply effects to it while annotating effects used and what they notice in the changes of their recordings.
+4. Students record a full podcast in a small group of 3 to 4 students including music intro/outro, host introductions, main content, and sponsors.
+5. Students will mixdown a rough draft of their podcasts for grading and assessment.
+6. Students will cerate a final mastered version to publish to class website.
 
 ---
