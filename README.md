@@ -40,9 +40,15 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total lenght: 3 Weeks
 
 (list each lesson with main topic(s))
+1. Setting up equipment
+2. Using mixing board with DAW
+3. Learning the FX modules on mixing board and DAW
+4. Recording with correct settings
+5. Mixing
+6. Mastering
 
 ---
 
