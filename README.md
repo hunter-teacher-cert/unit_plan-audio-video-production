@@ -22,12 +22,20 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ---
 
 ### Tools Used
-(include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+- Audio mixing board
+- Soundtrap.com (or any DAW that we have available)
+- Condenser Mics and boom stands
+- Google Sites
+- Scratch
 
 ---
 
 ### Resources
 (include any links/books/readings to be used during this unit)
+
+- [Scratch](https://scratch.mit.edu/)
+- [Soundtrap](https://www.soundtrap.com/)
+
 
 ---
 
